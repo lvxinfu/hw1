@@ -1,4 +1,4 @@
-* [2 points] **Complete Phase 1 by the Wednesday, April 4 5:30pm**
+* [2 points] **Complete Phase 1 by the Wednesday, April 4 5:30pm**  
     Yes.
 * [3 points] **Minimum number of files.**  
     3 files:
@@ -7,13 +7,13 @@
         README.md
     extra file decrypt the message:
         depj.rb
-* [4 points] **Names must be 7 characters or less.**
+* [4 points] **Names must be 7 characters or less.**  
     Yes.
 * [4 points] **Minimum number of classes/functions/methods.**  
     Yes.
-* [4 points] **Implement only the "happy path".**
+* [4 points] **Implement only the "happy path".**  
     Yes.
-* [3 points] **Document Your Project in the README.md file**
+* [3 points] **Document Your Project in the README.md file**  
     Yes. In this project, I assume that price does not change with the showtime for easy implementation. And I am not very sure if the price should change or not in real world. I only know there is always Tuesday discount. And I do not implement "Up to 10 tickets can be purchased at once" since I am not very sure if this is true in real world.
 
 Instruction:
