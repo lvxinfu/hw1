@@ -2,11 +2,11 @@
     Yes.
 * [3 points] **Minimum number of files.**  
     3 files: <br />
-        box_office.py <br />
-        tickets.py -- module file <br />
-        README.md <br />
+     box_office.py <br />
+     tickets.py -- module file <br />
+     README.md <br />
     extra file decrypt the message: <br />
-        depj.rb <br />
+     depj.rb <br />
 * [4 points] **Names must be 7 characters or less.**  
     Yes.
 * [4 points] **Minimum number of classes/functions/methods.**  
