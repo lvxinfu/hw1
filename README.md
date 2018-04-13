@@ -22,31 +22,31 @@ Instruction:
 2. Start my app (python3)
     $ python box_office.py
 3. ? to list commands
-    '>' ?
+    `>` ?
 4. Set today's date
-    '>' setd 20180401
+    `>` setd 20180401
 5. Buy a ticket
     command buy syntax -- buy movie_name date tier
-    '>' buy my_movie_1 20180401 3
-    * this will print ticket's serial number *
-    '>' buy my_movie_2 20180401 4
-    * this will print ticket's serial number *
-    '>' buy my_movie_1 20180410 1
-    * this will print 7-day warning *
+    `>` buy my_movie_1 20180401 3
+    *this will print ticket's serial number*
+    `>` buy my_movie_2 20180401 4
+    *this will print ticket's serial number*
+    `>` buy my_movie_1 20180410 1
+    *this will print 7-day warning*
 6. Refund a ticket
     command refund syntax -- refund ticket_sn
-    '>' refund 2018040101213
-    * this will print refund done *
-    '>' setd 20180402
-    '>' refund 2018040102314
-    * this will print not-refundable warning *
+    `>` refund 2018040101213
+    *this will print refund done*
+    `>` setd 20180402
+    `>` refund 2018040102314
+    *this will print not-refundable warning*
 7. Show stats
     command stats syntax -- stats date (screen_num)
-    '>' stats 20180401
-    * this will report the total tickets sold on given date *
-    '>' stats 20180401 2
-    * this will report the total tickets sold and unsold on given date for given screen *
+    `>` stats 20180401
+    *this will report the total tickets sold on given date*
+    `>` stats 20180401 2
+    *this will report the total tickets sold and unsold on given date for given screen*
 8. Quit
-    '>' quit
+    `>` quit
     
 We can edit box_office.py to generate more screens for different movies at different dates. The previous instruction is only a test case.
