@@ -1,0 +1,3 @@
+Grade: (20/20)
+
+Good! However, I think you could have done away with the `ticket` and `screen` classes at least for this assignment. The implementations are pretty minimal. Also, remember to follow class naming conventions -- those should be capitalized.
